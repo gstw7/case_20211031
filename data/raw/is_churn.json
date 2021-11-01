@@ -1,0 +1,4092 @@
+[
+    {
+        "customer_code": 31,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 560,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 697,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 438,
+        "last_purchase_date": "2018-02-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 234,
+        "last_purchase_date": "2018-02-08T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 250,
+        "last_purchase_date": "2018-07-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 456,
+        "last_purchase_date": "2018-04-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 344,
+        "last_purchase_date": "2018-07-03T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 537,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 635,
+        "last_purchase_date": "2018-03-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 803,
+        "last_purchase_date": "2018-01-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 400,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 615,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 450,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 239,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 535,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 740,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 137,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 798,
+        "last_purchase_date": "2018-04-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 245,
+        "last_purchase_date": "2018-02-01T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 128,
+        "last_purchase_date": "2018-05-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 492,
+        "last_purchase_date": "2018-04-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 167,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 264,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 664,
+        "last_purchase_date": "2018-02-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 503,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 609,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 634,
+        "last_purchase_date": "2018-06-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 289,
+        "last_purchase_date": "2018-01-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 335,
+        "last_purchase_date": "2018-03-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 817,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 553,
+        "last_purchase_date": "2018-05-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 231,
+        "last_purchase_date": "2018-06-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 306,
+        "last_purchase_date": "2018-01-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 723,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 743,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 304,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 111,
+        "last_purchase_date": "2018-02-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 713,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 512,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 174,
+        "last_purchase_date": "2018-02-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 418,
+        "last_purchase_date": "2018-03-06T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 656,
+        "last_purchase_date": "2018-05-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 660,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 221,
+        "last_purchase_date": "2018-01-26T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 186,
+        "last_purchase_date": "2018-01-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 665,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 710,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 434,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 140,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 484,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 403,
+        "last_purchase_date": "2018-03-02T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 468,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 415,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 98,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 63,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 677,
+        "last_purchase_date": "2018-04-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 642,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 608,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 628,
+        "last_purchase_date": "2018-04-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 358,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 520,
+        "last_purchase_date": "2018-07-02T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 360,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 351,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 171,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 20,
+        "last_purchase_date": "2018-06-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 497,
+        "last_purchase_date": "2018-04-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 172,
+        "last_purchase_date": "2018-05-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 538,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 127,
+        "last_purchase_date": "2018-05-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 758,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 187,
+        "last_purchase_date": "2018-07-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 469,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 285,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 265,
+        "last_purchase_date": "2018-02-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 632,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 114,
+        "last_purchase_date": "2018-07-07T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 561,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 747,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 332,
+        "last_purchase_date": "2018-07-02T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 652,
+        "last_purchase_date": "2018-04-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 182,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 612,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 368,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 340,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 405,
+        "last_purchase_date": "2018-03-22T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 207,
+        "last_purchase_date": "2018-04-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 271,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 685,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 372,
+        "last_purchase_date": "2018-06-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 4,
+        "last_purchase_date": "2018-01-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 617,
+        "last_purchase_date": "2018-04-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 741,
+        "last_purchase_date": "2018-01-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 59,
+        "last_purchase_date": "2018-04-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 610,
+        "last_purchase_date": "2018-04-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 627,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 471,
+        "last_purchase_date": "2018-04-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 275,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 621,
+        "last_purchase_date": "2018-05-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 654,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 15,
+        "last_purchase_date": "2018-01-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 202,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 257,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 555,
+        "last_purchase_date": "2018-01-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 243,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 746,
+        "last_purchase_date": "2018-01-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 530,
+        "last_purchase_date": "2018-01-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 28,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 588,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 162,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 712,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 813,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 493,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 34,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 287,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 674,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 46,
+        "last_purchase_date": "2018-01-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 546,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 765,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 700,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 251,
+        "last_purchase_date": "2018-04-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 17,
+        "last_purchase_date": "2018-05-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 673,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 417,
+        "last_purchase_date": "2018-04-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 108,
+        "last_purchase_date": "2018-01-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 94,
+        "last_purchase_date": "2018-06-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 452,
+        "last_purchase_date": "2018-02-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 784,
+        "last_purchase_date": "2018-02-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 407,
+        "last_purchase_date": "2018-03-05T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 525,
+        "last_purchase_date": "2018-01-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 364,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 703,
+        "last_purchase_date": "2018-03-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 122,
+        "last_purchase_date": "2018-01-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 115,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 117,
+        "last_purchase_date": "2018-07-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 55,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 774,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 567,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 389,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 691,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 554,
+        "last_purchase_date": "2018-01-25T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 375,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 164,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 818,
+        "last_purchase_date": "2018-05-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 807,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 800,
+        "last_purchase_date": "2018-01-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 816,
+        "last_purchase_date": "2018-03-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 409,
+        "last_purchase_date": "2018-04-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 220,
+        "last_purchase_date": "2018-04-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 597,
+        "last_purchase_date": "2018-03-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 244,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 425,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 431,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 494,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 521,
+        "last_purchase_date": "2018-04-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 376,
+        "last_purchase_date": "2018-04-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 763,
+        "last_purchase_date": "2018-03-15T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 334,
+        "last_purchase_date": "2018-01-23T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 260,
+        "last_purchase_date": "2018-01-23T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 60,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 110,
+        "last_purchase_date": "2018-02-07T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 645,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 314,
+        "last_purchase_date": "2018-03-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 82,
+        "last_purchase_date": "2018-02-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 686,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 590,
+        "last_purchase_date": "2018-03-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 466,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 690,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 181,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 440,
+        "last_purchase_date": "2018-02-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 352,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 168,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 206,
+        "last_purchase_date": "2018-05-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 89,
+        "last_purchase_date": "2018-01-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 795,
+        "last_purchase_date": "2018-04-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 276,
+        "last_purchase_date": "2018-03-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 338,
+        "last_purchase_date": "2018-07-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 198,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 241,
+        "last_purchase_date": "2018-02-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 592,
+        "last_purchase_date": "2018-01-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 569,
+        "last_purchase_date": "2018-02-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 190,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 371,
+        "last_purchase_date": "2018-02-02T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 499,
+        "last_purchase_date": "2018-03-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 219,
+        "last_purchase_date": "2018-03-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 125,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 446,
+        "last_purchase_date": "2018-06-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 85,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 730,
+        "last_purchase_date": "2009-05-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 1,
+        "last_purchase_date": "2018-03-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 549,
+        "last_purchase_date": "2018-01-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 540,
+        "last_purchase_date": "2018-01-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 603,
+        "last_purchase_date": "2018-04-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 595,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 761,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 699,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 581,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 259,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 460,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 599,
+        "last_purchase_date": "2018-02-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 165,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 832,
+        "last_purchase_date": "2018-04-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 235,
+        "last_purchase_date": "2018-02-26T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 709,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 204,
+        "last_purchase_date": "2018-02-05T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 132,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 487,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 707,
+        "last_purchase_date": "2018-02-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 518,
+        "last_purchase_date": "2018-07-02T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 439,
+        "last_purchase_date": "2018-02-07T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 149,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 124,
+        "last_purchase_date": "2018-04-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 458,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 607,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 272,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 222,
+        "last_purchase_date": "2018-04-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 582,
+        "last_purchase_date": "2018-01-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 715,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 478,
+        "last_purchase_date": "2018-04-10T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 779,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 18,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 701,
+        "last_purchase_date": "2018-02-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 584,
+        "last_purchase_date": "2018-05-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 292,
+        "last_purchase_date": "2018-06-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 72,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 226,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 420,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 728,
+        "last_purchase_date": "2018-01-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 269,
+        "last_purchase_date": "2018-01-10T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 437,
+        "last_purchase_date": "2018-04-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 382,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 776,
+        "last_purchase_date": "2018-06-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 837,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 229,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 613,
+        "last_purchase_date": "2018-01-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 684,
+        "last_purchase_date": "2018-03-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 716,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 510,
+        "last_purchase_date": "2017-08-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 644,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 395,
+        "last_purchase_date": "2018-03-05T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 362,
+        "last_purchase_date": "2018-02-16T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 384,
+        "last_purchase_date": "2018-03-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 602,
+        "last_purchase_date": "2018-05-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 310,
+        "last_purchase_date": "2018-06-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 141,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 504,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 83,
+        "last_purchase_date": "2018-06-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 408,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 622,
+        "last_purchase_date": "2018-04-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 531,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 366,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 724,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 523,
+        "last_purchase_date": "2018-05-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 533,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 100,
+        "last_purchase_date": "2018-01-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 578,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 399,
+        "last_purchase_date": "2018-01-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 490,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 374,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 213,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 733,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 273,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 216,
+        "last_purchase_date": "2018-02-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 557,
+        "last_purchase_date": "2018-07-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 802,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 71,
+        "last_purchase_date": "2018-02-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 113,
+        "last_purchase_date": "2018-04-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 545,
+        "last_purchase_date": "2018-04-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 789,
+        "last_purchase_date": "2018-04-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 102,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 148,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 796,
+        "last_purchase_date": "2018-06-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 827,
+        "last_purchase_date": "2018-02-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 109,
+        "last_purchase_date": "2018-04-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 564,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 570,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 145,
+        "last_purchase_date": "2018-03-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 104,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 146,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 515,
+        "last_purchase_date": "2018-04-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 302,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 64,
+        "last_purchase_date": "2018-07-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 303,
+        "last_purchase_date": "2018-01-17T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 777,
+        "last_purchase_date": "2018-03-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 201,
+        "last_purchase_date": "2018-06-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 801,
+        "last_purchase_date": "2018-01-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 809,
+        "last_purchase_date": "2018-04-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 727,
+        "last_purchase_date": "2018-04-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 650,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 785,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 683,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 307,
+        "last_purchase_date": "2018-02-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 123,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 465,
+        "last_purchase_date": "2018-01-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 778,
+        "last_purchase_date": "2018-02-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 14,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 67,
+        "last_purchase_date": "2018-05-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 54,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 464,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 77,
+        "last_purchase_date": "2018-05-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 576,
+        "last_purchase_date": "2018-01-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 442,
+        "last_purchase_date": "2018-04-05T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 477,
+        "last_purchase_date": "2018-03-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 390,
+        "last_purchase_date": "2018-02-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 346,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 514,
+        "last_purchase_date": "2018-05-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 328,
+        "last_purchase_date": "2018-01-13T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 53,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 443,
+        "last_purchase_date": "2018-05-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 666,
+        "last_purchase_date": "2018-05-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 290,
+        "last_purchase_date": "2018-02-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 256,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 516,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 447,
+        "last_purchase_date": "2018-06-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 189,
+        "last_purchase_date": "2018-05-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 577,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 170,
+        "last_purchase_date": "2018-03-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 154,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 539,
+        "last_purchase_date": "2018-05-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 583,
+        "last_purchase_date": "2018-05-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 449,
+        "last_purchase_date": "2018-05-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 150,
+        "last_purchase_date": "2018-03-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 757,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 227,
+        "last_purchase_date": "2018-06-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 738,
+        "last_purchase_date": "2018-01-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 462,
+        "last_purchase_date": "2018-03-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 284,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 671,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 787,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 633,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 27,
+        "last_purchase_date": "2018-01-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 309,
+        "last_purchase_date": "2018-06-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 507,
+        "last_purchase_date": "2018-05-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 435,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 766,
+        "last_purchase_date": "2018-03-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 618,
+        "last_purchase_date": "2018-01-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 445,
+        "last_purchase_date": "2015-03-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 393,
+        "last_purchase_date": "2018-06-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 511,
+        "last_purchase_date": "2018-05-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 144,
+        "last_purchase_date": "2018-05-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 649,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 105,
+        "last_purchase_date": "2018-03-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 771,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 830,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 12,
+        "last_purchase_date": "2018-04-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 754,
+        "last_purchase_date": "2018-04-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 47,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 773,
+        "last_purchase_date": "2018-04-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 308,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 682,
+        "last_purchase_date": "2018-04-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 734,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 196,
+        "last_purchase_date": "2018-03-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 40,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 343,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 668,
+        "last_purchase_date": "2018-01-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 808,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 769,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 544,
+        "last_purchase_date": "2018-03-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 669,
+        "last_purchase_date": "2018-05-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 179,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 826,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 43,
+        "last_purchase_date": "2018-01-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 294,
+        "last_purchase_date": "2018-01-12T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 139,
+        "last_purchase_date": "2018-01-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 107,
+        "last_purchase_date": "2018-04-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 261,
+        "last_purchase_date": "2018-01-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 536,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 3,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 217,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 315,
+        "last_purchase_date": "2018-07-02T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 215,
+        "last_purchase_date": "2018-06-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 173,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 659,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 295,
+        "last_purchase_date": "2018-02-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 101,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 68,
+        "last_purchase_date": "2018-02-02T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 412,
+        "last_purchase_date": "2018-03-20T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 153,
+        "last_purchase_date": "2018-03-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 718,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 432,
+        "last_purchase_date": "2018-04-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 742,
+        "last_purchase_date": "2018-04-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 648,
+        "last_purchase_date": "2018-01-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 157,
+        "last_purchase_date": "2018-04-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 485,
+        "last_purchase_date": "2018-04-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 30,
+        "last_purchase_date": "2018-03-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 35,
+        "last_purchase_date": "2018-07-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 380,
+        "last_purchase_date": "2018-02-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 355,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 770,
+        "last_purchase_date": "2018-01-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 630,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 45,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 739,
+        "last_purchase_date": "2018-03-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 719,
+        "last_purchase_date": "2018-03-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 61,
+        "last_purchase_date": "2018-05-03T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 528,
+        "last_purchase_date": "2018-01-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 44,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 605,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 689,
+        "last_purchase_date": "2018-03-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 99,
+        "last_purchase_date": "2018-04-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 562,
+        "last_purchase_date": "2018-06-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 657,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 786,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 457,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 163,
+        "last_purchase_date": "2018-05-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 327,
+        "last_purchase_date": "2018-03-02T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 604,
+        "last_purchase_date": "2018-05-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 194,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 543,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 755,
+        "last_purchase_date": "2018-06-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 836,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 601,
+        "last_purchase_date": "2018-04-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 397,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 166,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 672,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 383,
+        "last_purchase_date": "2018-01-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 391,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 56,
+        "last_purchase_date": "2018-04-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 736,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 744,
+        "last_purchase_date": "2018-04-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 210,
+        "last_purchase_date": "2018-05-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 330,
+        "last_purchase_date": "2018-04-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 74,
+        "last_purchase_date": "2018-05-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 197,
+        "last_purchase_date": "2018-04-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 402,
+        "last_purchase_date": "2018-06-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 317,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 455,
+        "last_purchase_date": "2018-02-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 378,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 158,
+        "last_purchase_date": "2018-05-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 286,
+        "last_purchase_date": "2018-06-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 329,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 58,
+        "last_purchase_date": "2018-05-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 812,
+        "last_purchase_date": "2018-04-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 188,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 411,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 387,
+        "last_purchase_date": "2018-03-08T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 297,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 23,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 586,
+        "last_purchase_date": "2018-04-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 339,
+        "last_purchase_date": "2018-01-10T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 748,
+        "last_purchase_date": "2018-01-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 277,
+        "last_purchase_date": "2018-03-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 751,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 279,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 453,
+        "last_purchase_date": "2018-04-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 489,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 177,
+        "last_purchase_date": "2018-04-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 646,
+        "last_purchase_date": "2018-03-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 426,
+        "last_purchase_date": "2018-04-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 498,
+        "last_purchase_date": "2018-01-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 388,
+        "last_purchase_date": "2018-03-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 505,
+        "last_purchase_date": "2018-03-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 475,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 651,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 461,
+        "last_purchase_date": "2018-02-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 75,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 25,
+        "last_purchase_date": "2018-07-02T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 638,
+        "last_purchase_date": "2018-01-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 476,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 708,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 169,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 320,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 559,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 501,
+        "last_purchase_date": "2018-05-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 696,
+        "last_purchase_date": "2018-02-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 223,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 8,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 474,
+        "last_purchase_date": "2018-05-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 238,
+        "last_purchase_date": "2018-06-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 97,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 717,
+        "last_purchase_date": "2018-04-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 10,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 522,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 596,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 301,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 687,
+        "last_purchase_date": "2018-04-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 448,
+        "last_purchase_date": "2018-05-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 636,
+        "last_purchase_date": "2018-03-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 532,
+        "last_purchase_date": "2018-04-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 32,
+        "last_purchase_date": "2018-05-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 381,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 130,
+        "last_purchase_date": "2018-01-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 821,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 33,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 479,
+        "last_purchase_date": "2018-03-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 488,
+        "last_purchase_date": "2018-05-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 500,
+        "last_purchase_date": "2018-02-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 698,
+        "last_purchase_date": "2018-04-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 759,
+        "last_purchase_date": "2018-07-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 491,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 211,
+        "last_purchase_date": "2018-06-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 155,
+        "last_purchase_date": "2018-01-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 594,
+        "last_purchase_date": "2018-01-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 680,
+        "last_purchase_date": "2018-05-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 781,
+        "last_purchase_date": "2018-03-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 563,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 312,
+        "last_purchase_date": "2018-02-02T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 551,
+        "last_purchase_date": "2018-05-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 398,
+        "last_purchase_date": "2018-01-29T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 714,
+        "last_purchase_date": "2018-01-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 470,
+        "last_purchase_date": "2018-02-09T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 242,
+        "last_purchase_date": "2018-01-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 542,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 663,
+        "last_purchase_date": "2018-05-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 299,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 631,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 237,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 49,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 112,
+        "last_purchase_date": "2018-04-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 369,
+        "last_purchase_date": "2018-05-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 283,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 126,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 756,
+        "last_purchase_date": "2018-02-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 676,
+        "last_purchase_date": "2018-05-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 228,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 341,
+        "last_purchase_date": "2018-02-01T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 797,
+        "last_purchase_date": "2018-03-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 640,
+        "last_purchase_date": "2018-01-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 95,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 799,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 517,
+        "last_purchase_date": "2018-04-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 459,
+        "last_purchase_date": "2018-04-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 711,
+        "last_purchase_date": "2018-06-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 160,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 69,
+        "last_purchase_date": "2018-03-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 667,
+        "last_purchase_date": "2018-06-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 365,
+        "last_purchase_date": "2018-04-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 508,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 695,
+        "last_purchase_date": "2018-01-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 367,
+        "last_purchase_date": "2018-01-15T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 353,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 106,
+        "last_purchase_date": "2018-03-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 526,
+        "last_purchase_date": "2018-01-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 571,
+        "last_purchase_date": "2018-02-09T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 377,
+        "last_purchase_date": "2018-03-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 62,
+        "last_purchase_date": "2018-04-10T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 600,
+        "last_purchase_date": "2018-01-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 39,
+        "last_purchase_date": "2018-03-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 36,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 78,
+        "last_purchase_date": "2018-02-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 0,
+        "last_purchase_date": "2018-06-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 806,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 81,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 178,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 732,
+        "last_purchase_date": "2018-03-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 394,
+        "last_purchase_date": "2018-03-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 159,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 90,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 643,
+        "last_purchase_date": "2018-01-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 91,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 641,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 552,
+        "last_purchase_date": "2018-04-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 80,
+        "last_purchase_date": "2018-01-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 780,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 52,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 84,
+        "last_purchase_date": "2018-04-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 24,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 293,
+        "last_purchase_date": "2018-01-15T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 263,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 349,
+        "last_purchase_date": "2018-03-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 416,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 298,
+        "last_purchase_date": "2018-04-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 280,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 568,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 342,
+        "last_purchase_date": "2018-02-09T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 486,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 325,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 762,
+        "last_purchase_date": "2018-03-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 278,
+        "last_purchase_date": "2018-06-01T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 19,
+        "last_purchase_date": "2018-03-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 129,
+        "last_purchase_date": "2018-03-23T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 506,
+        "last_purchase_date": "2018-01-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 764,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 704,
+        "last_purchase_date": "2018-06-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 370,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 6,
+        "last_purchase_date": "2018-04-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 323,
+        "last_purchase_date": "2018-01-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 823,
+        "last_purchase_date": "2018-07-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 354,
+        "last_purchase_date": "2018-06-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 232,
+        "last_purchase_date": "2018-01-10T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 729,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 270,
+        "last_purchase_date": "2018-03-02T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 236,
+        "last_purchase_date": "2018-06-01T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 587,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 804,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 819,
+        "last_purchase_date": "2018-04-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 423,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 214,
+        "last_purchase_date": "2018-01-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 156,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 429,
+        "last_purchase_date": "2018-06-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 76,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 254,
+        "last_purchase_date": "2018-02-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 593,
+        "last_purchase_date": "2018-04-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 324,
+        "last_purchase_date": "2018-01-22T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 116,
+        "last_purchase_date": "2018-05-02T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 195,
+        "last_purchase_date": "2018-01-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 752,
+        "last_purchase_date": "2018-01-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 70,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 534,
+        "last_purchase_date": "2018-01-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 725,
+        "last_purchase_date": "2018-03-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 681,
+        "last_purchase_date": "2018-06-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 611,
+        "last_purchase_date": "2018-04-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 614,
+        "last_purchase_date": "2018-06-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 200,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 726,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 361,
+        "last_purchase_date": "2018-01-12T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 316,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 706,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 647,
+        "last_purchase_date": "2018-04-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 51,
+        "last_purchase_date": "2018-06-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 321,
+        "last_purchase_date": "2018-05-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 151,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 225,
+        "last_purchase_date": "2018-03-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 433,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 566,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 311,
+        "last_purchase_date": "2018-07-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 233,
+        "last_purchase_date": "2018-03-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 175,
+        "last_purchase_date": "2018-05-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 831,
+        "last_purchase_date": "2018-06-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 333,
+        "last_purchase_date": "2018-02-09T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 678,
+        "last_purchase_date": "2018-05-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 326,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 606,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 430,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 29,
+        "last_purchase_date": "2018-02-05T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 135,
+        "last_purchase_date": "2018-03-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 705,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 775,
+        "last_purchase_date": "2018-05-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 548,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 379,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 670,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 454,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 258,
+        "last_purchase_date": "2018-03-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 119,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 565,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 410,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 480,
+        "last_purchase_date": "2018-03-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 629,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 300,
+        "last_purchase_date": "2018-05-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 147,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 814,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 253,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 406,
+        "last_purchase_date": "2018-01-22T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 467,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 574,
+        "last_purchase_date": "2018-04-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 357,
+        "last_purchase_date": "2018-03-16T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 572,
+        "last_purchase_date": "2018-01-11T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 731,
+        "last_purchase_date": "2018-01-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 428,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 246,
+        "last_purchase_date": "2018-03-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 541,
+        "last_purchase_date": "2018-03-02T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 749,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 252,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 513,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 247,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 720,
+        "last_purchase_date": "2018-05-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 2,
+        "last_purchase_date": "2018-06-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 483,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 9,
+        "last_purchase_date": "2018-01-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 48,
+        "last_purchase_date": "2018-02-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 79,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 249,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 579,
+        "last_purchase_date": "2018-03-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 829,
+        "last_purchase_date": "2018-04-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 811,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 753,
+        "last_purchase_date": "2018-02-02T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 73,
+        "last_purchase_date": "2018-04-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 396,
+        "last_purchase_date": "2018-02-20T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 828,
+        "last_purchase_date": "2018-06-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 191,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 345,
+        "last_purchase_date": "2018-05-29T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 790,
+        "last_purchase_date": "2018-01-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 424,
+        "last_purchase_date": "2018-03-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 203,
+        "last_purchase_date": "2018-02-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 427,
+        "last_purchase_date": "2018-03-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 624,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 337,
+        "last_purchase_date": "2018-07-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 11,
+        "last_purchase_date": "2018-01-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 702,
+        "last_purchase_date": "2018-01-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 573,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 772,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 152,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 65,
+        "last_purchase_date": "2018-01-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 822,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 142,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 248,
+        "last_purchase_date": "2018-04-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 205,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 502,
+        "last_purchase_date": "2018-03-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 436,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 589,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 268,
+        "last_purchase_date": "2018-06-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 21,
+        "last_purchase_date": "2018-05-10T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 692,
+        "last_purchase_date": "2018-05-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 693,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 13,
+        "last_purchase_date": "2018-04-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 218,
+        "last_purchase_date": "2018-05-03T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 556,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 616,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 794,
+        "last_purchase_date": "2018-03-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 57,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 658,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 782,
+        "last_purchase_date": "2018-01-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 88,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 495,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 121,
+        "last_purchase_date": "2018-01-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 322,
+        "last_purchase_date": "2018-01-25T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 7,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 620,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 240,
+        "last_purchase_date": "2018-03-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 92,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 575,
+        "last_purchase_date": "2018-05-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 42,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 138,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 348,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 662,
+        "last_purchase_date": "2018-03-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 598,
+        "last_purchase_date": "2018-03-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 768,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 131,
+        "last_purchase_date": "2018-04-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 356,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 143,
+        "last_purchase_date": "2018-06-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 481,
+        "last_purchase_date": "2018-04-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 386,
+        "last_purchase_date": "2018-01-22T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 385,
+        "last_purchase_date": "2018-02-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 255,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 86,
+        "last_purchase_date": "2018-04-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 103,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 419,
+        "last_purchase_date": "2018-03-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 472,
+        "last_purchase_date": "2018-03-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 519,
+        "last_purchase_date": "2018-01-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 134,
+        "last_purchase_date": "2018-06-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 266,
+        "last_purchase_date": "2018-02-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 41,
+        "last_purchase_date": "2018-01-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 509,
+        "last_purchase_date": "2018-06-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 688,
+        "last_purchase_date": "2018-01-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 38,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 208,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 118,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 441,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 209,
+        "last_purchase_date": "2018-05-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 133,
+        "last_purchase_date": "2018-03-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 282,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 363,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 22,
+        "last_purchase_date": "2018-05-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 421,
+        "last_purchase_date": "2018-03-16T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 473,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 262,
+        "last_purchase_date": "2018-05-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 199,
+        "last_purchase_date": "2018-04-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 444,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 496,
+        "last_purchase_date": "2018-03-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 136,
+        "last_purchase_date": "2018-03-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 760,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 274,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 347,
+        "last_purchase_date": "2018-06-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 180,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 422,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 305,
+        "last_purchase_date": "2018-03-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 267,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 401,
+        "last_purchase_date": "2018-06-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 413,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 336,
+        "last_purchase_date": "2018-01-19T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 788,
+        "last_purchase_date": "2018-02-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 655,
+        "last_purchase_date": "2018-07-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 350,
+        "last_purchase_date": "2018-06-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 639,
+        "last_purchase_date": "2018-05-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 192,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 183,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 373,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 87,
+        "last_purchase_date": "2018-04-18T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 212,
+        "last_purchase_date": "2018-06-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 185,
+        "last_purchase_date": "2018-06-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 815,
+        "last_purchase_date": "2018-06-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 26,
+        "last_purchase_date": "2018-06-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 580,
+        "last_purchase_date": "2018-06-26T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 793,
+        "last_purchase_date": "2018-04-09T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 414,
+        "last_purchase_date": "2018-05-17T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 735,
+        "last_purchase_date": "2018-04-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 5,
+        "last_purchase_date": "2018-05-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 835,
+        "last_purchase_date": "2013-07-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 547,
+        "last_purchase_date": "2018-06-13T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 675,
+        "last_purchase_date": "2018-03-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 661,
+        "last_purchase_date": "2018-04-25T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 193,
+        "last_purchase_date": "2018-05-14T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 288,
+        "last_purchase_date": "2018-04-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 37,
+        "last_purchase_date": "2018-03-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 824,
+        "last_purchase_date": "2018-06-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 120,
+        "last_purchase_date": "2018-05-30T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 50,
+        "last_purchase_date": "2018-06-06T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 230,
+        "last_purchase_date": "2018-02-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 805,
+        "last_purchase_date": "2018-06-04T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 820,
+        "last_purchase_date": "2018-03-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 626,
+        "last_purchase_date": "2018-06-07T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 833,
+        "last_purchase_date": "2018-03-22T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 637,
+        "last_purchase_date": "2018-03-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 750,
+        "last_purchase_date": "2018-03-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 463,
+        "last_purchase_date": "2018-04-20T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 694,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 810,
+        "last_purchase_date": "2018-03-16T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 296,
+        "last_purchase_date": "2018-02-08T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 558,
+        "last_purchase_date": "2018-03-29T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 653,
+        "last_purchase_date": "2018-03-19T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 722,
+        "last_purchase_date": "2018-06-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 291,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 619,
+        "last_purchase_date": "2018-02-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 591,
+        "last_purchase_date": "2018-05-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 224,
+        "last_purchase_date": "2018-04-24T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 679,
+        "last_purchase_date": "2018-04-05T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 791,
+        "last_purchase_date": "2018-05-28T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 737,
+        "last_purchase_date": "2017-11-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 585,
+        "last_purchase_date": "2018-06-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 745,
+        "last_purchase_date": "2018-02-27T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 451,
+        "last_purchase_date": "2018-06-11T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 96,
+        "last_purchase_date": "2018-01-23T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 93,
+        "last_purchase_date": "2018-03-21T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 825,
+        "last_purchase_date": "2018-02-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 550,
+        "last_purchase_date": "2018-04-12T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 318,
+        "last_purchase_date": "2018-01-31T00:00:00Z",
+        "is_churn": 1.0
+    },
+    {
+        "customer_code": 524,
+        "last_purchase_date": "2018-05-08T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 783,
+        "last_purchase_date": "2018-04-15T00:00:00Z",
+        "is_churn": 0.0
+    },
+    {
+        "customer_code": 331,
+        "last_purchase_date": "2018-02-27T00:00:00Z",
+        "is_churn": 1.0
+    }
+]
