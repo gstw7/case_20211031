@@ -1,4 +1,6 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 def aux(df):
     
@@ -33,3 +35,14 @@ def discount(s1_calc, s2):
         dsc = -1
     return dsc
 
+
+def plot_bars(df, features, target, n_rows, n_cols, title, figsize):
+   
+
+    fig = plt.figure(figsize=figsize)
+    for i, feat in enumerate(features):
+        ax = fig.add_subplot(n_rows,n_cols,i+1)
+        sns.countplot(data=df, x=feat, ax=ax, hue=target)
+    
+    fig.suptitle(title)
+    fig.show()
