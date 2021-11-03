@@ -10,9 +10,10 @@ CASE
 pip install virtualenv
 virtualenv venv
 source venv/bin/activate
-pip install -r requirements.txt
 git clone git@github.com:gstw7/case_20211031.git
 cd case_20211031
+pip install -r requirements.txt
+jupyter notebook
 ```
 Inside the notebooks folder, run the .ipynb files in their respective order.
 
